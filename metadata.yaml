@@ -1,0 +1,33 @@
+_repo: Kings-at-Arms_55272
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bowen, Marjorie
+    aliases:
+    - Long, Mrs. Arthur
+    - Costanzo, Gabrielle Margaret Vere Campbell
+    - Campbell, Gabrielle Margaret Vere
+    - Paye, Robert
+    - Long, Gabrielle Margaret Vere Campbell
+    - Long, Margaret Gabrielle Vere Campbell
+    - Campbell, Margaret
+    birthdate: 1888
+    deathdate: 1952
+    gutenberg_agent_id: '41727'
+    url: http://www.gutenberg.org/2009/agents/41727
+description: ''
+gutenberg_issued: '2017-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55272'
+  lccn: '19015981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Charles XII, King of Sweden, 1682-1718 -- Fiction'
+- GITenberg
+title: Kings-at-Arms
+url: http://www.gutenberg.org/ebooks/55272
